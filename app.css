@@ -1,0 +1,55 @@
+body {
+    background-color: #9da3a4;
+    
+}
+header {
+    text-align: center;
+    background: url("https://i.pinimg.com/736x/e3/10/57/e31057dac3b9c0aca43fc0fbc4672c11--minimalist-wallpaper-wallpaper-iphone.jpg");
+    background-size: cover;
+    padding: 20px, 0px, 0px, 0px
+}
+#list {
+    padding: 10px;
+    background: rgba(0,0,0,0.3);
+  }
+  #links {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+
+  h2 {
+    text-align: center;
+    color: #7c6e75;
+    font-family: 'Lobster', cursive;
+    font-size: 26px
+    
+  }
+
+  h1 {
+    color: #61535A;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 40px
+    
+  }
+
+  p {
+    font-family: 'Handlee', cursive;
+    
+  }
+  a {
+    font-family: 'Berkshire Swash', cursive;
+    color:#5F6554;
+  }
+  
+  h3 {
+    color:#5F6554;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 26px
+  }
+
+  li {
+    color:#5F6554;
+    font-family: 'Handlee', cursive;
+    
+  }
